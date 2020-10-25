@@ -3,11 +3,15 @@
 - 🏀⛹🏾 I love playing Basketball/ Streetball. Whenever I travel, I'm taking my sneakers with me.
 - 🎧🎸 Listening to music, connecting with the artist and their story they are telling.
 
+<br />
+
 ### Research:
 
-The digital change of the world has accompanied me since my youth. My studies of electrical engineering and computer science has now led me to do research in mobile robotics for material flow and logistics. Currently I am doing facing application-oriented research questions in order to provide sustainable and advanced technical solutions for the digital transformation..
+The digital change of the world has accompanied me since my youth. My studies of electrical engineering and computer science has now led me to do research in mobile robotics for material flow and logistics. Currently I am doing facing application-oriented research questions in order to provide sustainable and advanced technical solutions for the digital transformation.
 
 Next to software design and development, my areas of interest include the Internet-of-Things, clean code, human-machine systems and the intelligent production environment (Plug'n'Transport, Smart Factory, ...) of tomorrow.
+
+<br />
 
 ### Connect with me:
 
