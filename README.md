@@ -3,7 +3,6 @@
 - 🏀⛹🏾 I love playing Basketball/ Streetball. Whenever I travel, I'm taking my sneakers with me.
 - 🎧🎸 Listening to music, connecting with the artist and their story they are telling.
 
-<br />
 
 ### Research:
 
@@ -11,15 +10,14 @@ The digital change of the world has accompanied me since my youth. My studies of
 
 Next to software design and development, my areas of interest include the Internet-of-Things, clean code, human-machine systems and the intelligent production environment (Plug'n'Transport, Smart Factory, ...) of tomorrow.
 
-<br />
 
 ### Connect with me:
 
-[<img align="left" alt="ptrdtznr | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />][website]
-[<img align="left" alt="meet.peet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="ptrdtznr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ptrdtznr | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img align="left" alt="meet.peet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ptrdtznr | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" title="www.detzner.info" />][website]
+[<img align="left" alt="meet.peet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" title="Github" />][github]
+[<img align="left" alt="ptrdtznr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="Linkedin" />][linkedin]
+[<img align="left" alt="ptrdtznr | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" title="Xing" />][xing]
+[<img align="left" alt="meet.peet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" title="Instagram" />][instagram]
 
 <br />
 
