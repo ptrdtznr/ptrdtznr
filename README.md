@@ -8,6 +8,8 @@
 
 The digital change of the world has accompanied me since my youth. My studies of electrical engineering and computer science has now led me to do research in mobile robotics for material flow and logistics. Currently I am doing facing application-oriented research questions in order to provide sustainable and advanced technical solutions for the digital transformation.
 
+The world is distributed and decentralized. So why not also a cyber physical production system organizing in this way? Entities (machines, mobile robots / automated guided vehicle), ...) shall be autonomous and organizing themselves. Organization presumes interaction. Interaction requires communication. Nowadays it is common to realize communication through centralized servers (brokers). But using decentralized peer-to-peer (P2P) networks could create new opportunities in terms of self-organization and collaboration.
+
 Next to software design and development, my areas of interest include the Internet-of-Things, clean code, human-machine systems and the intelligent production environment (Plug'n'Transport, Smart Factory, ...) of tomorrow.
 
 
